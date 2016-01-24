@@ -1,6 +1,8 @@
-1369
-kalenica 1278
-zewn szersze o 3cm
+### Wymiary z natury:
+
+- 1369 - ?
+- kalenica 1278
+- zewn szersze o 3cm
 
 ## Zamiana oznaczeń narożnikow
 - A->N
@@ -24,11 +26,11 @@ zewn szersze o 3cm
 10.  753 -> **753**
 11.  785
 
-##### W
+##### S
 
 ##### N
 
-1.  737
+1.  737 -> **726**
 2.  753
 3.  726
 4.  692 -> **688**
@@ -36,14 +38,15 @@ zewn szersze o 3cm
 6.  694
 7.  694
 8.  695
-
-9.  702
+9.  702 -> **741**
 10. 741
 11. 775
-S
+
+##### W
 
 
 
-kąt pomiędzy linią szwu a linią przełamania płaszczyzny przy trapezie (pomiędzy ścianami NS/N1, NS/S1, WE/W2, WE/E2) = ok. 26.1813 deg
-kąt pomiędzy linią szwu a linią przełamania trojkata prostokatnego niższego (pomiędzy E1/E2, W1/W2) = ok. 51.1701 deg
-kąt pomiędzy linią szwu a linią przełamania trojkata prostokatnego wyższego (pomiędzy N1/N2, S1/S2) = ok.  deg
+
+## Rozne załozenia
+
+- bryt po zszyciu ma 116cm szerokosci
